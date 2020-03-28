@@ -1,4 +1,10 @@
 package ie.gmit.single;
+/*
+Conor Kenny GroupA
+G00352227@gmit.ie
+25/3/20
+class provides user object validation
+ */
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

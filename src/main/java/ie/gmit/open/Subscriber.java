@@ -1,3 +1,8 @@
+/*
+Conor Kenny GroupA
+G00352227@gmit.ie
+25/3/20
+ */
 package ie.gmit.open;
 
 public abstract class Subscriber {
